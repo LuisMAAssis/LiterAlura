@@ -1,7 +1,7 @@
 <h1 align="center"> LiterAlura </h1>
 
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-![done-in-Intellij](https://img.shields.io/badge/Done%20in-Intellij-1f425f.svg)](https://jetbrains.com/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![done-in-Intellij](https://img.shields.io/badge/Done%20in-Intellij-1f425f.svg)](https://jetbrains.com/)
 
 
 ## Descrição:
